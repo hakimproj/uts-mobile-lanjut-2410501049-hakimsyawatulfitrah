@@ -3,9 +3,9 @@
 | | |
 |---|---|
 | **Nama** | Nama Lengkap Kamu |
-| **NIM** | 123456789 |
-| **Kelas** | TI-4A |
-| **Tema** | Tema A — ResepKita (TheMealDB) |
+| **NIM** | 2410501049 |
+| **Kelas** | A |
+| **Tema** | Tema A — ResepKita |
 
 ## Tech Stack
 - React Native + Expo SDK 51
@@ -24,14 +24,14 @@ npx expo start
 Scan QR code dengan aplikasi Expo Go di HP.
 
 ## Screenshots
-![Home](./screenshots/home.png)
-![Detail](./screenshots/detail.png)
-![Favorites](./screenshots/favorites.png)
-![Search](./screenshots/search.png)
-![About](./screenshots/about.png)
+![Home](./screenshots/home.jpeg)
+![Detail](./screenshots/detail.jpeg)
+![Favorites](./screenshots/favorites.jpeg)
+![Search](./screenshots/cari.jpeg)
+![About](./screenshots/about.jpeg)
 
 ## Video Demo
-[Tonton di YouTube](https://youtube.com/LINK_KAMU)
+
 
 ## Justifikasi State Management
 Saya memilih **Context API + useReducer** karena... (tulis minimal 3 kalimat alasanmu)
