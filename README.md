@@ -24,25 +24,22 @@ npx expo start
 Scan QR code dengan aplikasi Expo Go di HP.
 
 ## Screenshots
-<p>
-  home :
+
+  Home :
   <img src="./screenshots/home.jpeg" width="200" alt="Home">
-</p>
-<p>
-  detail :
+
+  Detail :
   <img src="./screenshots/detail.jpeg" width="200" alt="Detail">
-</p>
-<p>
-  favorit :
+
+  Favorit :
   <img src="./screenshots/faforit.jpeg" width="200" alt="Favorites">
-</p>
-<p>
+
   Cari :
   <img src="./screenshots/cari.jpeg" width="200" alt="Search">
-<p> 
+
   About :
   <img src="./screenshots/about.jpeg" width="200" alt="About">
-</p>
+
 
 ## Video Demo
 https://drive.google.com/drive/folders/18_lIR_K44K6KaL4jtNUOxn-42jsWZ_UY?usp=drive_link
