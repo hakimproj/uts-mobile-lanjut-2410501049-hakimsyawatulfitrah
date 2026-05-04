@@ -27,7 +27,7 @@ Scan QR code dengan aplikasi Expo Go di HP.
 <p>
   <img src="./screenshots/home.jpeg" width="200" alt="Home">
   <img src="./screenshots/detail.jpeg" width="200" alt="Detail">
-  <img src="./screenshots/favorite.jpeg" width="200" alt="Favorites">
+  <img src="./screenshots/faforit.jpeg" width="200" alt="Favorites">
   <img src="./screenshots/cari.jpeg" width="200" alt="Search">
   <img src="./screenshots/about.jpeg" width="200" alt="About">
 </p>
