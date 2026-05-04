@@ -44,4 +44,6 @@ Saya memilih **Context API + useReducer** karena... (tulis minimal 3 kalimat ala
 - https://reactnative.dev/docs/flatlist
 
 ## Refleksi
-(Tulis minimal 150 kata pengalaman kamu mengerjakan proyek ini)
+Sebelumnya saya sudah pernah coba React Native sedikit-sedikit, tapi ternyata bikin aplikasi yang lengkap itu jauh lebih susah dari yang saya kira. Yang paling bikin pusing adalah koneksi ke API TheMealDB dan error-error yang muncul selama pengembangan. Mulai dari file foto yang tidak ditemukan, tipe data yang salah di navigasi, sampai masalah versi library yang tidak kompatibel. Tiap error memberi saya pelajaran untuk lebih teliti baca pesan errornya daripada langsung panik.
+
+Proses upload ke GitHub juga jadi menjadi sedikit tantangan. saya pernah menggunakan Git sebelumnya akan tetapi saya masih belum terlalu mahir dalam menggunakannya, dalam pengerjaan tugas ini saya sedikit menambah wawasan mengenai git walaupun tidak signifikan. Intinya proyek ini ngajarin saya bahwa problem solving itu lebih penting dari sekadar hafal sintaks. Kalau ada error, baca pesannya dulu, pahami penyebabnya, baru cari solusinya.
