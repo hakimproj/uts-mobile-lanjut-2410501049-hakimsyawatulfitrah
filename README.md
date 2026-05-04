@@ -36,7 +36,13 @@ Scan QR code dengan aplikasi Expo Go di HP.
 https://drive.google.com/drive/folders/18_lIR_K44K6KaL4jtNUOxn-42jsWZ_UY?usp=drive_link
 
 ## Justifikasi State Management
-Saya memilih **Context API + useReducer** karena... (tulis minimal 3 kalimat alasanmu)
+Saya memilih **Context API + useReducer** karena beberapa alasan:
+1. Sudah built-in di React
+   tidak perlu install library tambahan, berbeda dengan Redux yang menurut saya terlalu kompleks untuk proyek dengan skala sekecil ini.
+
+2. Cukup untuk kebutuhan proyek
+   data global yang perlu dishare antar screen cuma satu yaitu daftar favorit, jadi pakai Context API sudah lebih dari cukup tanpa harus over-engineering.
+
 
 ## Referensi
 - https://reactnavigation.org/docs/getting-started
