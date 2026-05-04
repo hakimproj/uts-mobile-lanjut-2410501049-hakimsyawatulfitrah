@@ -31,7 +31,7 @@ Scan QR code dengan aplikasi Expo Go di HP.
 ![About](./screenshots/about.jpeg)
 
 ## Video Demo
-
+https://drive.google.com/drive/folders/18_lIR_K44K6KaL4jtNUOxn-42jsWZ_UY?usp=drive_link
 
 ## Justifikasi State Management
 Saya memilih **Context API + useReducer** karena... (tulis minimal 3 kalimat alasanmu)
